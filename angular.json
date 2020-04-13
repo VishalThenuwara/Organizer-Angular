@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sliit-organizer2"
+    }
+  },
+  "defaultProject": "sliit-organizer2",
+  "cli": {
+    "analytics": "0e1a30aa-9232-4607-b375-a50f56d30979"
+  }
 }
